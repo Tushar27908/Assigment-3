@@ -1,4 +1,4 @@
-name: flutter_dice
+name: flutter_dicee
 description: A new Flutter project.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -37,7 +37,9 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/
+    - font/
   #   - images/a_dot_ham.jpeg
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
